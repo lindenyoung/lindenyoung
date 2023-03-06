@@ -1,6 +1,8 @@
 ### Hi there 👋
 - :sunny: Software engineer based in Dallas, TX.
 - :ghost: Currently working on Overvue, a popular prototyping tool for Vue!
+
+- :star: Fav tech stack - JS/TS, React, Node/Express, PostgreSQL/MongoDB.
 - :dog: Hobbies - mountain biking, EDM music (Odesza, Illenium, Tritonal), gaming and esports (Apex, Valorant, Overwatch, CDL), and playing fetch with my crazy Hungarian Vizsla.
 <!--
 **lindenyoung/lindenyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
