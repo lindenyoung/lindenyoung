@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- :earth_americas: I'm a software engineer based in Dallas, TX
+- :ghost: Currently working on Overvue, a popular prototyping tool for Vue!
+- :palm_tree: I love mountain biking, EDM music (Odesza, Illenium, Tritonal), gaming and esports (Apex, Valorant, Overwatch), playing fetch with my crazy Hungarian Vizsla, reading to learn, Twitter memes, and all things personal finance
 <!--
 **lindenyoung/lindenyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
