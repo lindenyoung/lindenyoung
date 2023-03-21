@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :sunny:  Software engineer based in Dallas, TX
-- :ghost:  Currently working on Overvue, a popular prototyping tool for Vue (2.5k ★)
+- :ghost:  Currently working on OverVue, a popular prototyping tool for Vue (2.5k ★)
 
 - :sparkles:  Fav stack - TS/JS, React, Node.js/Express, PostgreSQL/MongoDB
 - :dog:  Hobbies - mountain biking, EDM music (Odesza, Illenium, Tritonal), gaming and esports (Apex, Valorant, Overwatch, CDL), and playing fetch with my crazy Hungarian Vizsla
