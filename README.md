@@ -1,8 +1,8 @@
 ### Hi there 👋
 - :sunny:  Software Engineer based in Dallas, TX
-- :ghost:  Currently working on the backend @ Janus Health (Series B healthtech company)
-- :sparkles:  Fav stack - TS/JS, React, Node.js/Express, PostgreSQL
-- :dog:  Hobbies - mountain biking, EDM music (Odesza, Illenium, Tritonal), gaming and esports (Apex, Valorant, League, Overwatch), and dog sports (proud Vizsla and GSP owner)
+- :ghost:  Currently working @ Capital One
+- :sparkles:  Fav stack: React, Node.js, PostgreSQL, AWS
+- :dog:  Hobbies: mountain biking, EDM music (Odesza, Illenium, Tritonal), gaming and esports (Apex, League, Valorant), and anything with my two dogs (Vizsla and GSP)
 <!--
 **lindenyoung/lindenyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
